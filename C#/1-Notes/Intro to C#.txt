@@ -1,0 +1,12 @@
+
+
+    C# was developed by Microsoft in 2000 and is an Object-Oriented programming language - which is class-
+    based and component-orientated.
+
+    It can be used to create various types of libraries, programs, and extentions.
+
+    Along with being able to be used to create many things, it has many SDKs [Software Kevelopment Kits] for
+    developers to be able to satisfy tyeir needs and achieve their goals faster.
+
+    C# has Simple integrations for various APIs [Application Programming Interfaces] such as payment gateways
+    as an example
