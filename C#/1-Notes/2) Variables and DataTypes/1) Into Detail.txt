@@ -1,0 +1,43 @@
+
+
+    As we already know, numerical data can be stored in two ways
+
+    - Integers [aka. Whole Numbers]
+    - Decimals 
+
+    Simply explained, integers are everything on the left side of the "Decimal point"
+
+    Some examples of integers are:
+
+    - 186468
+    - 37886
+    - 100
+
+    For Decimals they are some like:
+
+    - 10.00005
+    - 12025
+    - 1000.1
+
+
+    Now the question is, where do we store this information?
+
+    Well, as one might have guessed, that would be in a "Variable" ["Var" for a shorter representation]
+
+
+    Now, what is a variable?
+
+    A Variable, in short, is a container, think of a Bookshelf, or a plastic container 
+    to store things in your fridge, the concept is pretty much the same, it's a place that
+    you will use to be able to store certain types of information, and in turn, different
+    types of information needs different Variables types, such types are:
+
+    - int: Used to store whole/Integer numbers [short for "integer"]
+
+    - double: Used to store decimal numbers/values 
+
+    - char: Used to store a single Character/letter
+
+    - string: Used for storing words or sentances [for example, dialogue]
+
+    

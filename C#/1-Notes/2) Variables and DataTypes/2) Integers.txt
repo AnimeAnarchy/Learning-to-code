@@ -1,0 +1,40 @@
+
+
+    In order to store numbers/Integers, we need to choose the right type of Variable.
+
+    Doing this is pretty straightforward. This way of doing it is called "Declaration",
+    and for the purposes of this, we'll use the keyword "int" [yes it has to be lowercase],
+    for this section
+
+    In C#, when you load up a solution as a "C#" in Visual Studio [the puple one] it'll
+    be ready for use with other things, but we'll focus on just declaration.
+
+    You can see how to declare a variable in "variableExample.cs" file, but to make this
+    easier, it's done like so:
+
+            int a;
+
+    if you looked at the code, you'll see that there are a lot of things there like 
+    "using", "namespace", and "class", don't worry about any of that, you just have
+    to look at the declaration. However, let's break it down shall we.
+
+    int - represents the variable type, in this case, Integer
+
+    a - representsthe name of the variable
+
+
+    Now that we've covered how to declare an Integer, let's assign a value. There are
+    two ways to do this in C#, those are:
+
+    - On the same line when declaring a variable
+    
+    - Assigning later in the code post-declaration
+
+    The values of the variables can be changed throughout the code, this is usefull when 
+    having to do operations and so on. 
+
+    Let's see this in code.
+
+
+
+    
